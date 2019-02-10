@@ -1,0 +1,144 @@
+Manifest-Version: 1.0
+Created-By: 9 (Oracle Corporation)
+
+Name: AndroidManifest.xml
+SHA-256-Digest: yFCt4NfXUKsi1lmoCxR3OGGFaVe6cBmPbr+UU5iANXk=
+
+Name: assets/fonts/Alpaca.zip
+SHA-256-Digest: 0WtrNvLgVnNBiupfK6TqUnrJ/gkx1IG5MatMOzVgZdY=
+
+Name: assets/fonts/Anaheim.zip
+SHA-256-Digest: OrfV71gno+pyi0l/7c3HJwKbv+ms45hlhgz0rqrrqGE=
+
+Name: assets/fonts/Atma.zip
+SHA-256-Digest: XCBaqi0KedmzZBllwj87CrFHPaDwfefsgboXnHm2a7k=
+
+Name: assets/fonts/Barlow.zip
+SHA-256-Digest: NemwqToK1Fh448sLXbPfEMcQBa5ayjandd6NB0wU9v0=
+
+Name: assets/fonts/Big_River_Script.zip
+SHA-256-Digest: P2OCOq6z5NJMGtdjOVrkac7rpWyoKWMpZAinRTlZ+nw=
+
+Name: assets/fonts/Calibri.zip
+SHA-256-Digest: a31A4POxUXnKrXAQK9YLtLA/PSlXAXzOBisaMvwdP2Q=
+
+Name: assets/fonts/Caviar_Dreams.zip
+SHA-256-Digest: +0kcL44+3vhEuOD/Kr3D1SjWwSokatTOjMbxdHZCPZk=
+
+Name: assets/fonts/Chococooky.zip
+SHA-256-Digest: FVx1GEQMjdUkmwGrf0o0eeimNiNvAx2oRXD/E7vtNNk=
+
+Name: assets/fonts/Cocon.zip
+SHA-256-Digest: 9kxAfINiiRT1B/hcAgfCs93fbLm7PY5EBszDqkIQJRg=
+
+Name: assets/fonts/Comfortaa.zip
+SHA-256-Digest: bOijbdpN1YnLZaIfwASNLqcgw/ethyuCPU3jQpzJhtA=
+
+Name: assets/fonts/Cooljazz.zip
+SHA-256-Digest: Hy20LNM0T+AgSdjdtzdzgcp5mcrlkcl3LZ82YhbyF0o=
+
+Name: assets/fonts/Dosis.zip
+SHA-256-Digest: FJffHHgbvHYtjkPRQd1Y+fXHE6Y/WljP0/1ktDm5siQ=
+
+Name: assets/fonts/Exo2.zip
+SHA-256-Digest: jlTKoP1YxsA4gSYM27tsfMc4qWrAEu7VrLAZb2zO9tQ=
+
+Name: assets/fonts/FiraSans.zip
+SHA-256-Digest: r/XClNFeiBgMteHdEFrIZU1BbpNy55imlPZRaxEMQXI=
+
+Name: assets/fonts/Gafata.zip
+SHA-256-Digest: yix3vVUtEKn3ZMlewAepoI+0GTrsZqj9503FEfyIAiY=
+
+Name: assets/fonts/Google_Sans.zip
+SHA-256-Digest: wa9fVegLVVnhMgW7fAGtSREGn4hISeSM0tcDsHK4Fsc=
+
+Name: assets/fonts/Helvetica_Neue.zip
+SHA-256-Digest: Mtl6Y1Hhv1T7M956OWk8m50Efi0++nQuyrmvevb1y74=
+
+Name: assets/fonts/LifeIsABeach.zip
+SHA-256-Digest: p2SjArW94zbUSKQuXFiI6NzadpuOgmb60TkefR7Y60A=
+
+Name: assets/fonts/MontsterratAlt.zip
+SHA-256-Digest: 2cOBCvq1p03oRyx8LQ0SGGnNKCrSZ8GDYgOoWrwZzyY=
+
+Name: assets/fonts/Museo300.zip
+SHA-256-Digest: NDT8YPfz/gyEafte/4c+O+lk/r+y6TMTNLlNq409yJE=
+
+Name: assets/fonts/NK57.zip
+SHA-256-Digest: 42SgTyO3aMCkEoVQcinzZ7pWt4Z0XL8b+iFKiK/Y5IU=
+
+Name: assets/fonts/Noteworthy.zip
+SHA-256-Digest: Pmg9m9OeR7Z+s+ouw1/Co6OYxjHOtOw2oNmWQo9geHA=
+
+Name: assets/fonts/Ohd5.zip
+SHA-256-Digest: zSryk/Uz9hpyxuA+2n0ZSspfl8X5XRdDw6P73s10I5g=
+
+Name: assets/fonts/Oswald.zip
+SHA-256-Digest: +NlvZ++LBF+h4rjF8+zbsczLwqaS1RM800TUW8PutzI=
+
+Name: assets/fonts/Poppins.zip
+SHA-256-Digest: 1nqp/R3AcI5xew24//Oz0Kld1QiY//wWQpKbBxrN2wM=
+
+Name: assets/fonts/Product_Sans.zip
+SHA-256-Digest: uV/6/S9lcZLdxnj7MVSF00KWbTpY+5XRSl0zUorHSr4=
+
+Name: assets/fonts/Quick.zip
+SHA-256-Digest: EHOf8F8AP7l/XMNCDi15BlzRFxG55Y6kYH1yCwSyw/0=
+
+Name: assets/fonts/Raleway.zip
+SHA-256-Digest: xFinQyJwV/wPJ2aIDqfno3kRdvb+kZgyjljU9jiuJuM=
+
+Name: assets/fonts/Rosemary.zip
+SHA-256-Digest: i0kQYhLaWQKxZ9V5r6xlnufgWin24/bTpiVddwt0WXE=
+
+Name: assets/fonts/Rounded_Elegance.zip
+SHA-256-Digest: X6kQNU4pqsBmcwGCE0xWtOUgY2nVCCzxsh2FY4dO02M=
+
+Name: assets/fonts/Rubik.zip
+SHA-256-Digest: UT9v9p5W27v4TQFJj3XkA2vMZCuNC6Qv7ig3IXKPi/g=
+
+Name: assets/fonts/SlateFromOnePlus.zip
+SHA-256-Digest: fTIWhxUtCKhUoWIvyo6GuTCT4qkuuPCtCWAIxIGxDjM=
+
+Name: assets/fonts/Sony_Sketch.zip
+SHA-256-Digest: n9ErlRTiwa9ZPMN6gLIsjp4Mkr46SkYATQ5CYh6YZeA=
+
+Name: assets/fonts/Storopia.zip
+SHA-256-Digest: 4u7E+AKHlSdT8DjBjdWf5d/9pGeeAcv2gNKXG10Y4vY=
+
+Name: assets/fonts/Titillium_Web.zip
+SHA-256-Digest: qSohVblsietaKG89nm8aZQoOuDVgzK6BDMUegOlTjWY=
+
+Name: assets/fonts/Ubuntu.zip
+SHA-256-Digest: 4nM8RZK8zJsnpraBYeO4KlLbIaICSScym3f4BDuB5DU=
+
+Name: assets/fonts/Ubuntu_Regular.zip
+SHA-256-Digest: p/5VKb9+J7jH0zou9IqvA/ItFiisGp/ox10WD/wVnjU=
+
+Name: assets/fonts/Unicorn.zip
+SHA-256-Digest: aUa15yZGD3kbn7dq6JVmpY41bd1oGYcDhkZC0wxJG2E=
+
+Name: assets/fonts/Walkway.zip
+SHA-256-Digest: fhe85+iGFX2oN64RjJLMyKSH1CPnY8HLrG4NgQJiyRI=
+
+Name: assets/fonts/love.zip
+SHA-256-Digest: HqHJzdaSKjlMYczA+qi4lweYIH3xurgJ4EDFuhrLy+0=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA-256-Digest: mUHFVbzh0ZMqVFJiwmwJMkFKdVLbQ4NKnKbFUj5Coxk=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA-256-Digest: l2Y00Re9tmXzzUO/D18AMpwpm1hfuanQ+KxFG971m6M=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA-256-Digest: orb6FCYNk8C8OsskJu9c26xqC4VBUHah2PRr22QwAiY=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA-256-Digest: e7KxKFrIULZ48ClBC4VH1pjjgYHf0SE2GdyVRzdv7Rs=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA-256-Digest: EALJKrYO+J02qk56VJes1Q+QOIh3PXORBSk0hTVa6uc=
+
+Name: resources.arsc
+SHA-256-Digest: A8sqqBdEw7AAPSMNyLB8iBmHhjWkTSACQRrjDJymwwI=
+
